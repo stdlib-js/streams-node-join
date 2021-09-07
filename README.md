@@ -189,6 +189,22 @@ split.end();
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/streams/node/split`][@stdlib/streams/node/split]: transform stream which splits streamed data.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -249,6 +265,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [transform-stream]: https://nodejs.org/api/stream.html
 
 [object-mode]: https://nodejs.org/api/stream.html#stream_object_mode
+
+<!-- <related-links> -->
+
+[@stdlib/streams/node/split]: https://github.com/stdlib-js/streams-node-split
+
+<!-- </related-links> -->
 
 </section>
 
