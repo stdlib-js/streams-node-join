@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/streams-node-join",
+  "version": "0.0.0",
+  "description": "Transform stream which joins streamed data.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/streams-node-join.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "stream",
+    "streams",
+    "writable",
+    "readable",
+    "duplex",
+    "transform",
+    "newline",
+    "delimited",
+    "delimiter",
+    "join"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
