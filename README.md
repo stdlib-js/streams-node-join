@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@esm/index.mjs';
+import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@esm/index.mjs';
+import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@v0.2.1-esm/index.mjs';
 ```
 
 <a name="join-stream"></a>
@@ -163,7 +163,7 @@ This method accepts the same `options` as [`joinStream()`](#join-stream); howeve
 
 import splitStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-split@esm/index.mjs';
 import inspectStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-inspect-sink@esm/index.mjs';
-import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@esm/index.mjs';
+import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@v0.2.1-esm/index.mjs';
 
 var inspect;
 var split;
