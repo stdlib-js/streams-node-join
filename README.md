@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@deno/mod.js';
+import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@v0.2.2-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@deno/mod.js';
+import { factory, objectMode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@v0.2.2-deno/mod.js';
 ```
 
 <a name="join-stream"></a>
@@ -158,7 +158,7 @@ This method accepts the same `options` as [`joinStream()`](#join-stream); howeve
 ```javascript
 import splitStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-split@deno/mod.js';
 import inspectStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-inspect-sink@deno/mod.js';
-import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@deno/mod.js';
+import joinStream from 'https://cdn.jsdelivr.net/gh/stdlib-js/streams-node-join@v0.2.2-deno/mod.js';
 
 var inspect;
 var split;
